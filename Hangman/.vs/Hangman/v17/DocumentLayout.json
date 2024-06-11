@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sebas\\Desktop\\Hangman\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C26AAB-5ADC-4028-B9DB-33C276A1B551}|Hangman\\Hangman.pyproj|C:\\Users\\sebas\\Desktop\\Hangman\\Hangman\\Crud.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D9C26AAB-5ADC-4028-B9DB-33C276A1B551}|Hangman\\Hangman.pyproj|solutionrelative:Hangman\\Crud.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C26AAB-5ADC-4028-B9DB-33C276A1B551}|Hangman\\Hangman.pyproj|C:\\Users\\sebas\\Desktop\\Hangman\\Hangman\\BeautifulSoup.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D9C26AAB-5ADC-4028-B9DB-33C276A1B551}|Hangman\\Hangman.pyproj|solutionrelative:Hangman\\BeautifulSoup.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C26AAB-5ADC-4028-B9DB-33C276A1B551}|Hangman\\Hangman.pyproj|C:\\Users\\sebas\\Desktop\\Hangman\\Hangman\\Hangman.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D9C26AAB-5ADC-4028-B9DB-33C276A1B551}|Hangman\\Hangman.pyproj|solutionrelative:Hangman\\Hangman.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C26AAB-5ADC-4028-B9DB-33C276A1B551}|Hangman\\Hangman.pyproj|C:\\Users\\sebas\\Desktop\\Hangman\\Hangman\\app.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D9C26AAB-5ADC-4028-B9DB-33C276A1B551}|Hangman\\Hangman.pyproj|solutionrelative:Hangman\\app.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Crud.py",
+              "DocumentMoniker": "C:\\Users\\sebas\\Desktop\\Hangman\\Hangman\\Crud.py",
+              "RelativeDocumentMoniker": "Hangman\\Crud.py",
+              "ToolTip": "C:\\Users\\sebas\\Desktop\\Hangman\\Hangman\\Crud.py",
+              "RelativeToolTip": "Hangman\\Crud.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-05-30T19:43:15.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Hangman.py",
+              "DocumentMoniker": "C:\\Users\\sebas\\Desktop\\Hangman\\Hangman\\Hangman.py",
+              "RelativeDocumentMoniker": "Hangman\\Hangman.py",
+              "ToolTip": "C:\\Users\\sebas\\Desktop\\Hangman\\Hangman\\Hangman.py",
+              "RelativeToolTip": "Hangman\\Hangman.py",
+              "ViewState": "AQIAAK4AAAAAAAAAAAAAAGUAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-05-30T11:35:25.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "app.py",
+              "DocumentMoniker": "C:\\Users\\sebas\\Desktop\\Hangman\\Hangman\\app.py",
+              "RelativeDocumentMoniker": "Hangman\\app.py",
+              "ToolTip": "C:\\Users\\sebas\\Desktop\\Hangman\\Hangman\\app.py",
+              "RelativeToolTip": "Hangman\\app.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-05-30T11:33:49.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BeautifulSoup.py",
+              "DocumentMoniker": "C:\\Users\\sebas\\Desktop\\Hangman\\Hangman\\BeautifulSoup.py",
+              "RelativeDocumentMoniker": "Hangman\\BeautifulSoup.py",
+              "ToolTip": "C:\\Users\\sebas\\Desktop\\Hangman\\Hangman\\BeautifulSoup.py",
+              "RelativeToolTip": "Hangman\\BeautifulSoup.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-05-30T17:44:09.642Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
